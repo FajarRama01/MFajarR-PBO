@@ -28,6 +28,7 @@ public class LatihanKelas {
         System.out.println(buku2.tahunpenerbitan);
         System.out.println(buku2.harga.beli);
         System.out.println(buku1.penerbit.nama);
+        System.out.println(buku2.harga.beli);
     }
 }
 
